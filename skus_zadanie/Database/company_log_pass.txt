@@ -1,0 +1,5 @@
+Wood ume000 GlobalTech_Solutions 1
+Iron ume111 Innovate_Innovations 0
+Water ume222 Quantum_Enterprises 1
+Fire ume333 Visionary_Ventures 0
+Earth ume444 Nexus_Systems_Ltd 1

@@ -1,0 +1,14 @@
+1 0 -1 20 oneBedded  1
+1 0 -1 20 oneBedded  1
+1 0 -1 20 oneBedded  1
+1 0 -1 20 oneBedded  1
+1 0 -1 15 twoBedded  1
+1 0 -1 15 twoBedded  1
+1 0 -1 15 twoBedded  1
+1 0 -1 15 twoBedded  1
+1 0 -1 15 twoBedded  1
+1 0 -1 10 fourBedded  1
+1 0 -1 10 fourBedded  1
+1 0 -1 10 fourBedded  1
+1 0 -1 10 fourBedded  1
+1 0 -1 10 fourBedded  1
